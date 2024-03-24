@@ -27,6 +27,7 @@
 <h3><p align="center">💻 Studying Languages</p></h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
@@ -35,10 +36,10 @@
   <br>
   <br>
   
-  <h3><p align="center">🍀 My Social
+  <!-- <h3><p align="center">🍀 My Social
   <div align="center">
     <a href="https://www.instagram.com/ehfrhfosso"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ehfrhfosso"/></a>
-    </div>
+    </div> -->
     
   <br>
   <br>
