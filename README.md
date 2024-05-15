@@ -13,7 +13,7 @@
 <table width="300" border="2" bordercolor="blue" align="right">
         <tr>
           <p align="right">💬</p>
-          <th>🐬 Hi! Welcome to my world</th>
+          <th>🐬 안녕하세요, 차곡차곡 쌓아올리며 성장하는 개발자 '나소정'입니다!<br>저는 SpringBoot를 사용한 백엔드 개발을 하고 있습니다.</th>
         </tr>
 </table>
 
