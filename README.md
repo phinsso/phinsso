@@ -16,12 +16,10 @@
 <table width="300" border="2" bordercolor="blue" align="right">
         <tr>
           <p align="right">💬</p>
-          <th>🐬 안녕하세요, 차곡차곡 쌓아올리며 성장하는 개발자 '나소정'입니다!<br>저는 주로 SpringBoot를 사용한 백엔드 개발을 하고 있습니다.</th>
+          <th>🐬 안녕하세요, 퍼즐을 맞춰나가는 개발자 '나소정'입니다!<br>저는 주로 SpringBoot를 사용한 백엔드 개발을 하고 있습니다.</th>
         </tr>
 </table>
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -44,7 +42,15 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle DB-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   </div>
-  
+
+<br><br><br><br><br><br>
+
+  <div align=center>
+        <img src="https://github-readme-stats.vercel.app/api?username=phinsso">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phinsso&layout=compact">
+  </div>
+
+  <br>
   <br>
   <br>
   <br>
