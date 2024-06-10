@@ -16,7 +16,7 @@
 <table width="300" border="2" bordercolor="blue" align="right">
         <tr>
           <p align="right">💬</p>
-          <th>🐬 안녕하세요, 퍼즐 조각같은 개발자 '나소정'입니다!<br>저는 주로 SpringBoot를 사용한 백엔드 개발을 하고 있습니다.</th>
+          <th>🐬 안녕하세요, 퍼즐 조각 같은 개발자 '나소정'입니다!<br>저는 주로 SpringBoot를 사용한 백엔드 개발을 하고 있습니다.</th>
         </tr>
 </table>
 
@@ -45,15 +45,11 @@
 
 <br><br><br><br><br><br>
 
-  <div align=center>
+  <!-- <div align=center>
         <img src="https://github-readme-stats.vercel.app/api?username=phinsso">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phinsso&layout=compact">
-  </div>
+  </div> -->
 
-  <br>
-  <br>
-  <br>
-  <br>
   <br>
   <br>
   
