@@ -43,15 +43,12 @@
   <img src="https://img.shields.io/badge/Oracle DB-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   </div>
 
-<br><br><br><br><br><br>
+<br><br><br>
 
   <!-- <div align=center>
         <img src="https://github-readme-stats.vercel.app/api?username=phinsso">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phinsso&layout=compact">
   </div> -->
-
-  <br>
-  <br>
   
   <h3><p align="center">🍀 My Social
   <div align="center">
